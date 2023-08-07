@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Lily Script One', cursive;
+}
+#logo{
+    font-family: 'Lily Script One', cursive;
+    color: #071952;
+}
+.carousel-item{
+    width:100%;
+    height: 85vh;
+}
+#aboutimage{
+    width: 90%;
+    height: 50vh;
+}
